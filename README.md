@@ -1,4 +1,4 @@
-'''bash
+```bash
 ├── README.md
 ├── data
 │   └── sales_data_sample.csv
@@ -10,4 +10,4 @@
     ├── create_sidebar.py
     ├── data_manger.py
     └── make_charts.py
-'''
+```
